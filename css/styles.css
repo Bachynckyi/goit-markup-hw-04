@@ -376,8 +376,8 @@ img {
 /* HEROOOOOO */
 
 .for-user {
-  background-image: url('../images/background_hero.jpg'),
-    linear-gradient(to bottom, #c4c4c4, #c4c4c4);
+  background-image: linear-gradient(to bottom, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
+    url('../images/background_hero.jpg');
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-size: cover;
